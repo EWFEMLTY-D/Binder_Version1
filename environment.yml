@@ -11,8 +11,6 @@ dependencies:
   - lightgbm
   - missingno
   - mistune
-  - mitoinstaller
-  - mitosheet
   - mkl-fft
   - mkl-random
   - mkl-service
