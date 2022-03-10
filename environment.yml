@@ -7,7 +7,7 @@ dependencies:
   - pip
   - ipywidgets
   - jupyter_contrib_nbextensions
-  - sklearn
+  - scikit-learn
   - lightgbm
   - SQLAlchemy
   - xgboost
